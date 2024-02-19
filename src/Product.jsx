@@ -6,7 +6,7 @@ if (price>200){
 	<div>
 		<h1>Title: {title}</h1>
 		<p>Price: {price}</p>
-		<p>Discount 5%</P>
+		<p>Discount 5%</p>
 	</div>
 	);	
 }else{
